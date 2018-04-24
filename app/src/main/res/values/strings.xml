@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Catering-In</string>
+
+    <string name="item_1">Home</string>
+    <string name="item_2">Menu</string>
+    <string name="item_3">Notification</string>
+    <string name="item_4">Account</string>
+
+    <!--filter home-->
+    <string name="filter_location">Location</string>
+    <string name="filter_price">Price</string>
+    <string name="filter_rating">Rating</string>
+
+    <!--array dropdown filter home-->
+    <string-array name="array_login">
+        <item>Sign In As</item>
+    </string-array>
+    <string-array name="array_location">
+        <item>Location</item>
+        <item>Yogyakarta</item>
+        <item>Surakarta</item>
+        <item>Jakarta</item>
+    </string-array>
+    <string-array name="array_price">
+        <item>Price</item>
+        <item>Dari termurah</item>
+        <item>Dari termahal</item>
+    </string-array>
+    <string-array name="array_rating">
+        <item>Rating</item>
+        <item>Bintang 1</item>
+        <item>Bintang 2</item>
+        <item>Bintang 3</item>
+        <item>Bintang 4</item>
+        <item>Bintang 5</item>
+    </string-array>
+
+    <!--review-->
+    <string name="review_nita">Tidak pernah kapok langganan pempek disini, rasanya selalu nikmat dan tidak pernah mengecewakan. Tenggirinya benar-benar terasa. Bakal order lagi nih buat acara lain.</string>
+
+    <!--login-->
+    <string name="isi_login">
+        Tidak mempunyai akun? <u>Buat sekarang</u>
+    </string>
+
+</resources>
